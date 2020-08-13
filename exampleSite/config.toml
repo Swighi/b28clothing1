@@ -13,11 +13,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/italian"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "it-it"
+languageName = "It"
 weight = 2
 [[menu.main]]
 URL = "about"
@@ -52,8 +52,8 @@ URL = "https://themefisher.com/"
 name = "themefisher"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "B28 Clothing"
+description = "B28 Clothing | Disco is our way of life"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
