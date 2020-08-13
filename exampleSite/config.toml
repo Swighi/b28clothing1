@@ -19,38 +19,13 @@ home = "Accueil"
 languageCode = "it-it"
 languageName = "It"
 weight = 2
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 8
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 7
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 6
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 5
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 4
-[[menu.main]]
-URL = "services"
-name = "services"
-weight = 3
+[menu.main]
+name = "shop"
+weight = 1
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
-weight = 1
+weight = 8
 [params]
 author = "B28 Clothing"
 description = "B28 Clothing | Disco is our way of life"
